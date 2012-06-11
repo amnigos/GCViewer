@@ -738,7 +738,7 @@ public class GCViewer extends JFrame {
     }
 
     private static void usage() {
-        System.out.println("GCViewer");
+        System.out.println("GCViewer can be launched using below command!");
         System.out.println("java com.tagtraum.perf.gcviewer.GCViewer [<gc-log-file>]");
     }
 
